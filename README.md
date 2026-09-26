@@ -1,231 +1,227 @@
+
 <div align="center">
 
-# Hi, I'm Jibin B Mathew 👋
+# Hey, I'm JIBIN B MATHEW  👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Robotics+%26+Automation+Undergraduate;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Flutter+Developer;Building+Intelligent+Software+for+Real-World+Impact" />
+### Robotics & Automation Undergraduate | Aspiring ROS 2 Developer
 
-<p>
-  <a href="https://www.linkedin.com/in/jibinmathew5">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+**Building intelligent robots, exploring autonomous systems, and connecting robotics with software engineering.**
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Robotics+%26+Automation+Engineering;Learning+ROS+2+%26+Autonomous+Systems;Python+%7C+C%2B%2B+%7C+Computer+Vision;From+Simulation+to+Real-World+Robots;Future+Humanoid+Robotics+Engineer" alt="Typing animation" />
 
-  <img src="https://komarev.com/ghpvc/?username=JibinMathewB&style=for-the-badge&color=blue"/>
-</p>
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://jibin-portfolio-two.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibinmathew5/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathew96jibin@gmail.com)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JibinMathewB&style=flat-square&color=36BCF7)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 01 / About Me
 
-I'm a **Robotics and Automation undergraduate** with a **minor in Full Stack Development**.
+I'm **JIBIN B MATHEW**, a Robotics and Automation undergraduate at Karpaga Vinayaga College of Engineering & Technology, pursuing a minor in Full Stack Development.
 
-I'm passionate about building intelligent software systems that combine **Artificial Intelligence, Machine Learning, Robotics, and modern Software Engineering** to solve real-world problems.
+My primary interests are ROS 2, autonomous navigation, robot perception and intelligent robotic systems.
 
-My goal is to develop scalable applications that create meaningful impact, especially in **healthcare, intelligent automation, and mobile technologies**.
+I enjoy exploring the intersection of robotics and software engineering—from programming microcontrollers and building simulation prototypes to developing web dashboards for robotic applications.
 
----
+My long-term ambition is to work in **humanoid robotics**, developing robots that can perceive, navigate and interact with real-world environments.
 
-# 🚀 Currently Working On
-
-- 🤖 AI Clinical Decision Companion
-- 🏥 CareNet+ – AI Healthcare Platform
-- 📍 TraceNest – Campus Lost & Found System
-- 🐍 Python & Machine Learning
-- 🌐 Full Stack Development
-- 🦾 AI + Robotics Integration
+- 🎓 B.E. Robotics and Automation | 2023–2027
+- 💻 Minor in Full Stack Development
+- 🤖 Primary focus: ROS 2 and autonomous robotics
+- 🔬 Research interests: Assistive robotics, navigation and robot perception
+- 🌏 Long-term goal: Advanced humanoid robotics research
 
 ---
 
-# 🌱 Areas of Interest
+## 02 / My Engineering Toolbox
 
-- Artificial Intelligence
-- Machine Learning
-- Robotics & Intelligent Automation
-- Software Engineering
-- Full Stack Development
-- Mobile Application Development
-- Computer Vision
-- Cloud Computing
+<div align="center">
 
----
+**Programming**
 
-# 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark" alt="Programming languages" />
 
-### Languages
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart"/>
-</p>
+**Software & Development**
 
-### Mobile Development
+<img src="https://skillicons.dev/icons?i=django,git,github,vscode,linux,ubuntu&theme=dark" alt="Development tools" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter"/>
-</p>
+<br><br>
 
-### Web Development
+**Robotics & Embedded Systems**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-</p>
+`ROS 2` · `ESP32` · `OpenCV` · `Arduino` · `Robot Simulation`
 
-### Database
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
-</p>
+**Currently Developing**
 
-### Tools
+`C++ for Robotics` · `ROS 2 Packages` · `Robot Navigation` · `Computer Vision`
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,docker"/>
-</p>
+</div>
 
 ---
 
-# 📌 Featured Projects
+## 03 / Featured Projects
 
-## 🏥 CareNet+
+### 🤖 DeliverX — Smart Indoor Logistics & Assistant Robot
 
-An AI-powered healthcare platform focused on improving healthcare accessibility through intelligent symptom analysis, voice-assisted interaction, teleconsultation, emergency support, and smart patient services.
+**Final-Year Robotics Project | In Development**
 
-**Highlights**
+An indoor mobile robot project exploring autonomous delivery and human-assistance capabilities.
 
-- AI Symptom Analysis
-- Voice Assistant
-- Emergency SOS
-- Teleconsultation
-- OCR Support
+The planned architecture combines a Raspberry Pi, ESP32, camera-based perception, sensor integration and a user-facing interface.
 
----
+**Technical focus**
 
-## 🤖 AI Clinical Decision Companion
+- Indoor navigation and localization
+- ROS 2 integration
+- Computer vision and AprilTag-based positioning
+- Embedded motor and sensor control
+- Robot-to-user interaction
 
-An intelligent clinical support system designed to assist healthcare professionals through AI-driven decision support, multimodal interaction, medical image analysis, and intelligent clinical workflows.
-
-**Highlights**
-
-- AI Clinical Decision Support
-- Voice Interaction
-- Medical Image Analysis
-- Hybrid Navigation
-- IoT Integration
+`ROS 2` `Python` `OpenCV` `ESP32` `Raspberry Pi`
 
 ---
 
-## 📍 TraceNest
+### 🖥️ RoboHub — Robotics Fleet Management Dashboard
 
-A campus Lost & Found platform designed to simplify reporting, matching, and claiming lost belongings through a seamless mobile-first experience.
+**Full-Stack Development Project | In Development**
 
-**Highlights**
+A web-based dashboard for monitoring and managing robotic systems.
 
-- Lost Item Reporting
-- Smart Matching
-- Claim Management
-- Student-Friendly Interface
+Built with Django, RoboHub explores how web applications can provide a centralized interface for robot information, operational status and telemetry.
 
----
+**Implemented and explored**
 
-# 📊 GitHub Analytics
+- Robot management dashboard
+- Robot detail pages
+- Django models and database integration
+- Telemetry data model
+- Responsive dashboard interface
 
-<p align="center">
+**Planned:** Live ROS 2 telemetry integration.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JibinMathewB&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibinMathewB&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+`Python` `Django` `HTML` `CSS` `SQLite`
 
 ---
 
-# 🔥 GitHub Streak
+### 🏠 ESP32 Home Automation & Safety System
 
-<p align="center">
+**Completed Simulation**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JibinMathewB&theme=tokyonight&hide_border=true"/>
+An ESP32-S3-based automation prototype developed in Cirkit Designer.
 
-</p>
+The system monitors flame and water sensors, displays real-time information on an OLED and automatically controls indicators and a relay-connected motor.
 
----
+**Features**
 
-# 📈 Contribution Graph
+- Flame and water detection
+- Automatic relay control
+- OLED status monitoring
+- Visual warning indicators
+- Serial Monitor diagnostics
 
-<p align="center">
+`ESP32-S3` `Arduino C++` `Embedded Systems` `Cirkit Designer`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JibinMathewB&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JibinMathewB&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</p>
+[**Explore the project →**](https://github.com/JibinMathewB/ESP32-Home-Automation-Safety-System)
 
 ---
 
-# 🎯 2026 Goals
+## 04 / Research & Exploration
 
-- Build production-ready AI applications
-- Master Machine Learning fundamentals
-- Contribute to Open Source
-- Strengthen Data Structures & Algorithms
-- Secure a Software Engineering Internship
-- Build impactful software products
+### ROS 2-Based Wearable Navigation for Visually Impaired Users
 
----
+**Proposed System and Evaluation Framework**
 
-# 📚 Currently Learning
+Research exploring a wearable assistive-navigation architecture that combines ROS 2, Time-of-Flight sensing and GNSS.
 
-- Machine Learning
-- Artificial Intelligence
-- Full Stack Development
-- Cloud Technologies
-- System Design
+The proposed system investigates how modular robotic software can support environmental sensing, obstacle awareness and navigation assistance.
 
----
+**Research areas**
 
-# 🤝 Connect With Me
+- Assistive robotics
+- ROS 2 system architecture
+- Time-of-Flight sensing
+- GNSS-based positioning
+- Navigation and evaluation methodology
 
-<p>
-
-<a href="https://www.linkedin.com/in/jibinmathew5">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mathew96jibin@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+*Research proposal; not presented as a physically validated system.*
 
 ---
 
-# 💡 Philosophy
+## 05 / What I'm Learning
 
-> **"Build with purpose. Learn continuously. Engineer solutions that create meaningful impact."**
+```text
+ROBOTICS LEARNING PATH
+
+[01] Python & C++ Fundamentals
+              |
+              v
+[02] ROS 2 Development
+              |
+              v
+[03] Robot Perception & Navigation
+              |
+              v
+[04] Autonomous Mobile Robots
+              |
+              v
+[05] Humanoid Robotics
+```
+
+My current priority is strengthening ROS 2 development and programming fundamentals while gaining practical experience through simulation and robotic projects.
+
+I'm particularly interested in robot software architectures, sensor integration, localization and autonomous navigation.
+
+---
+
+
+## 06 / GitHub Activity
+
+<div align="center">
+
+### Building, Learning & Contributing
+
+![GitHub Contribution Chart](https://ghchart.rshah.org/36BCF7/JibinMathewB)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JibinMathewB?tab=repositories)
+
+</div>
+
+## 07 / Beyond the Code
+
+I believe robotics is where software meets the physical world.
+
+My goal is to progress from simulation and foundational development to building autonomous systems that operate reliably in real environments.
+
+I'm especially interested in the future of humanoid robots, assistive technologies and intelligent machines.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### Let's Connect
 
-*"Turning ideas into intelligent software through AI, Robotics, and Modern Software Engineering."*
+Interested in robotics, ROS 2, computer vision or collaborative engineering projects?
+
+[**Portfolio**](https://jibin-portfolio-two.vercel.app) · [**LinkedIn**](https://www.linkedin.com/in/jibinmathew5/) · [**Email**](mailto:mathew96jibin@gmail.com)
+
+<br>
+
+**Learn. Build. Test. Improve. Repeat.**
+
+<sub>Engineering intelligent systems, one project at a time.</sub>
 
 </div>
