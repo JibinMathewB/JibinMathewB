@@ -17,8 +17,9 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JibinMathewB&style=flat-square&color=36BCF7)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JibinMathewB&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views">
+</p>
 </div>
 
 ---
